@@ -33,12 +33,12 @@ repositories:
     version: 6d4faa5cb8bbc777c486b352f1c393a89d8d9296
   individual_params:
     type: git
-    url: https://github.com/tier4/edge_auto_individual_params.git
-    version: cad817b30dfb6e3924eb11f300e28165cb837653
+    url: https://github.com/tier4/edge_auto_individual_params.macnicar.git
+    version: main
   launcher:
     type: git
-    url: https://github.com/tier4/edge_auto_jetson_launch.git
-    version: c58db0fea6c38e50a547e7273fef4d1cae79163d
+    url: https://github.com/tier4/edge_auto_jetson_launch.macnicar.git
+    version: main
   ros2_v4l2_camera:
     type: git
     url: https://github.com/tier4/ros2_v4l2_camera.git
